@@ -1,0 +1,11 @@
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\bin\Debug\netcoreapp3.1\ListIntro.exe
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\bin\Debug\netcoreapp3.1\ListIntro.deps.json
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\bin\Debug\netcoreapp3.1\ListIntro.runtimeconfig.json
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\bin\Debug\netcoreapp3.1\ListIntro.runtimeconfig.dev.json
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\bin\Debug\netcoreapp3.1\ListIntro.dll
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\bin\Debug\netcoreapp3.1\ListIntro.pdb
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\obj\Debug\netcoreapp3.1\ListIntro.csprojAssemblyReference.cache
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\obj\Debug\netcoreapp3.1\ListIntro.AssemblyInfoInputs.cache
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\obj\Debug\netcoreapp3.1\ListIntro.AssemblyInfo.cs
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\obj\Debug\netcoreapp3.1\ListIntro.dll
+C:\Users\ggsmo\workspace\GuessingGame\ListIntro\obj\Debug\netcoreapp3.1\ListIntro.pdb
